@@ -298,7 +298,7 @@ let projectile: Sprite = null
 let mySprite: Sprite = null
 info.setLife(5)
 info.setScore(0)
-game.splash("Welcome to Island Platformer", "By Manna")
+game.splash("Welcome to Island Platformer")
 game.splash("After 5 days of trying to figure out what game to create,", "I finally created my game")
 game.splash("Use W, A, D or the arrow buttons to move your player")
 game.splash("To use the dynamite press X, to use the platform creator press Z")
